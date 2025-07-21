@@ -48,14 +48,27 @@ An intelligent, user-friendly Sentiment Analysis GUI application built with Pyth
 ---
 ## 🧪 Installation
 
+### 1️⃣ Clone the repository:
+
 ```bash
 git clone https://github.com/srivallinalla12/Sentiment-Analysis-For-Work-Life-Balance.git
-cd Sentiment-Analysis-For-Work-Life-Balance
-pip install -r requirements.txt
-🚀 Run the Application
+```
+### 2️⃣ Navigate into the project directory:
 
+```bash
+cd Sentiment-Analysis-For-Work-Life-Balance
+```
+
+### 3️⃣ Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4️⃣ Run the Application:
+```bash
 python sentiment_analysis.py
-'''
+```
 📁 Project Structure
 
 .
