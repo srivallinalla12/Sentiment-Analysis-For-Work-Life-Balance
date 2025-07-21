@@ -14,7 +14,7 @@ An intelligent, user-friendly Sentiment Analysis GUI application built with Pyth
 - 📊 **Detailed Visualizations**:
   - Sentiment classification (Positive, Neutral, Negative)
   - Word cloud of frequently used terms
-  - Bar graph showing sentiment distribution
+  - Pie charts, bar graphs, scatter plots showing sentiment distribution
 - 🤖 **AI-Powered Summaries & Suggestions**:
   - Automatically generates a concise summary of overall sentiment
   - Offers suggestions for improvement or actions based on detected sentiment patterns
