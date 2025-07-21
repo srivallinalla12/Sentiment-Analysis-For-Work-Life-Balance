@@ -34,6 +34,25 @@ An intelligent, user-friendly Sentiment Analysis GUI application built with Pyth
    - Graphs
    - **AI summary and recommendations**
 ---
+## 📄 Software Requirements Specification (SRS)
+
+A full **SRS document** was created to formally define:
+
+- **Project purpose & goals**
+- **Design architecture** (frontend, backend, visualization engine)
+- **Supported data types and sources**
+- **UI design specifications** (with screen-by-screen layout)
+- **Risk and performance considerations**
+- **Assumptions, constraints, and user expectations**
+
+📘 The SRS helps guide structured development and ensures the app is scalable, user-friendly, and applicable for real-world use cases like:
+- HR teams analyzing work-life balance
+- Businesses reviewing customer satisfaction
+- Researchers running sentiment analysis on surveys
+
+> _You can find this document in `SRS.pdf` included in the project repository._
+
+---
 ## 💻 Tech Stack
 
 - **Python 3.10+**
@@ -75,10 +94,10 @@ python3 sentiment_analysis.py
 ```bash
 📁 Project Structure
 
-.
-├── sentiment_analysis.py     # Main application with UI and logic
-├── requirements.txt          # Python dependencies
-└── README.md                 # This documentation
+├── sentiment_analysis.py     # Main Python script (GUI + Logic)
+├── requirements.txt          # Dependency list
+├── SRS.pdf                   # Software Requirements Specification
+└── README.md                 # Project documentation
 ```
 ---
 🎯 Use Cases
@@ -98,7 +117,8 @@ Suggestion: However, neutral and negative sentiments suggest improving delivery 
 
 Srivalli Nalla
 - Computer Information Science Major 
--💡 Focused on building intelligent and impactful software using AI and Python
+- 💡 Focused on building intelligent and impactful software using AI and Python
+- 🌱 Passionate about AI, NLP, and data-driven design
 ---
 
 📃 License
