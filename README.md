@@ -69,12 +69,14 @@ pip install -r requirements.txt
 ```bash
 python sentiment_analysis.py
 ```
+```bash
 📁 Project Structure
 
 .
 ├── sentiment_analysis.py     # Main application with UI and logic
 ├── requirements.txt          # Python dependencies
 └── README.md                 # This documentation
+```
 ---
 🎯 Use Cases
 
@@ -88,15 +90,12 @@ python sentiment_analysis.py
 Summary: Majority of the feedback is positive, indicating good overall satisfaction.
 Suggestion: However, neutral and negative sentiments suggest improving delivery time and product descriptions.
 ---
-📸 UI Preview
 
-Add screenshots here to showcase interface and graphs.
----
 👤 Author
 
 Srivalli Nalla
-Computer Information Science Major 
-💡 Focused on building intelligent and impactful software using AI and Python
+- Computer Information Science Major 
+-💡 Focused on building intelligent and impactful software using AI and Python
 ---
 
 📃 License
