@@ -1,4 +1,3 @@
-# Sentiment-Analysis-For-Work-Life-Balance
 ---
 # 🧠 Sentiment Analysis Tool with AI Summary & Suggestions
 
@@ -68,6 +67,10 @@ pip install -r requirements.txt
 ### 4️⃣ Run the Application:
 ```bash
 python sentiment_analysis.py
+```
+### 4️⃣ Run the Application (for MAC):
+```bash
+python3 sentiment_analysis.py
 ```
 ```bash
 📁 Project Structure
